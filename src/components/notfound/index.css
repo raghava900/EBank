@@ -1,0 +1,11 @@
+.not-found {
+  height: 400px;
+  width: 400px;
+}
+
+.not-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

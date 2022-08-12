@@ -1,0 +1,66 @@
+.container {
+  height: 100vh;
+  width: 100vw;
+  background-color: #152850;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.login-container {
+  height: 80vh;
+  width: 80vw;
+  background-color: #e0eefe;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 10px;
+}
+
+.form-box {
+  height: 80vh;
+  width: 30vw;
+  border-radius: 20px;
+  padding: 3px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.label {
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: 500;
+  color: #5a7184;
+  margin: 6px;
+  padding: 5px;
+}
+
+.input {
+  height: 30px;
+  width: 350px;
+  margin: 5px;
+  padding: 5px;
+}
+
+.button {
+  height: 34px;
+  width: 80px;
+  background-color: #1565d8;
+  color: white;
+  margin: 15px;
+  border-radius: 5px;
+  border-width: 0px;
+}
+
+.img {
+  height: 450px;
+  width: 450px;
+}
+
+.wish-heading {
+  color: #183b56;
+  margin: 5px;
+  text-align: center;
+}
